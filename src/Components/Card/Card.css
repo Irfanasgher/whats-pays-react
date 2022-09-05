@@ -1,0 +1,29 @@
+#card {
+	position: relative;
+	width: '100%';
+	background-color: white;
+}
+#card .date {
+	position: absolute;
+	background-color: white;
+	top: 0;
+	right: 0;
+	height: 70px;
+	width: 50px;
+}
+#card .date h1 {
+	font-size: 12px;
+	text-align: center;
+}
+#card .title {
+	font-size: 16px;
+	margin-left: 10px;
+}
+#card .para {
+	font-size: 14px;
+	color: black;
+	margin-left: 10px;
+	margin-right: 10px;
+	height: 25px;
+	overflow: hidden;
+}
